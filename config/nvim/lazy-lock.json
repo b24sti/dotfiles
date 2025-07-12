@@ -1,0 +1,6 @@
+{
+  "blink.download": { "branch": "main", "commit": "d95072328fb8293cc62c2574b0de2026e74d6f92" },
+  "kubectl.nvim": { "branch": "main", "commit": "e6ab7c07dbc84344fd5c420eb886aa3022c7ab43" },
+  "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
+  "nvim-treesitter": { "branch": "main", "commit": "4eb12d7a1f82b6c8db9929bf2c4b38dc3177dd82" }
+}
