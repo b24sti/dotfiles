@@ -9,9 +9,5 @@ source <(kubectl completion bash)
 complete -F __start_kubectl k
 
 # Environment
-<<<<<<< HEAD
 PATH=$PATH:/opt/nvim-linux-x86_64/bin
-=======
-
 PATH=$PATH:/opt/node-v22.17.0-linux-x64/bin
->>>>>>> 9859cf5 (bashrc PATH NodeJS Binary)
