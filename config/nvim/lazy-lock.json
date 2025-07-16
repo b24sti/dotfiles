@@ -1,6 +1,7 @@
 {
   "blink.download": { "branch": "main", "commit": "d95072328fb8293cc62c2574b0de2026e74d6f92" },
-  "kubectl.nvim": { "branch": "main", "commit": "e6ab7c07dbc84344fd5c420eb886aa3022c7ab43" },
-  "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
-  "nvim-treesitter": { "branch": "main", "commit": "4eb12d7a1f82b6c8db9929bf2c4b38dc3177dd82" }
+  "catppuccin": { "branch": "main", "commit": "fa42eb5e26819ef58884257d5ae95dd0552b9a66" },
+  "kubectl.nvim": { "branch": "main", "commit": "9e0cb3450b6c5101b149ba9228b3cd3a8ec655f9" },
+  "nvim-treesitter": { "branch": "main", "commit": "c3ecec599b09684d900f4dd888676589a195a719" },
+  "symbols-outline": { "branch": "master", "commit": "564ee65dfc9024bdde73a6621820866987cbb256" }
 }
